@@ -8,8 +8,7 @@
     "build": "vite build",
     "lint": "eslint .",
     "preview": "vite preview",
-    "precommit": "lint-staged",
-    "prepare": "husky install"
+    "precommit": "lint-staged"
   },
   "lint-staged": {
     "*.{js,jsx,ts,tsx}": [

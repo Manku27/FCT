@@ -2,7 +2,6 @@
 
 ```
 yarn
-yarn prepare
 yarn dev
 ```
 
